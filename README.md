@@ -1,0 +1,1 @@
+This repository demonstrates a common error in assembly programming: accessing memory without proper bounds checking. The `bug.asm` file contains code that can lead to a segmentation fault.  The `bugSolution.asm` file provides a corrected version with added checks to prevent the error.
